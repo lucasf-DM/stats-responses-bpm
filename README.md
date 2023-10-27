@@ -1,0 +1,1 @@
+# stats responses bpm
